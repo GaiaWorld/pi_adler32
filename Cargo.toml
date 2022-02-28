@@ -9,4 +9,4 @@ license = "MIT OR Apache-2.0"
 keywords = ["pi", "check", "adler"]
 
 [dependencies]
-adler32="*"
+adler32="1.2"
